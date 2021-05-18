@@ -54,8 +54,8 @@
 //	I designed the system in a way, where it isn't supposted to be shutdown once started,
 //	unless someone wants to reset the whole system
 //
-//	This is why, it shouldn't be possible, to exit the app, unless you're an admin user, and specificly select the shutdown option
-//	and confirm the choice.
+//	This is why, it shouldn't be possible, to exit the app, unless you're an admin user,
+//  and specificly select the shutdown option and confirm the choice.
 //
 //	Because of this, all changes can be done on the internal database, without needing to modify external files.
 //
